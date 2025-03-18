@@ -1,4 +1,4 @@
-# 安装必要的包
+# 安装必要的包 edit something
 install.packages(c("readr", "ggplot2", "vegan"))  # 安装所需包
 library(readr)
 library(ggplot2)
